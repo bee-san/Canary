@@ -1,0 +1,2 @@
+# Canary-
+Automated Bug Bounties
